@@ -1,0 +1,18 @@
+body {
+    background-color: rgb(170, 81, 81);
+  }
+  
+  .jumbotron {
+    text-align: center;
+    color: rgb(44, 61, 119);
+  }
+  
+  .card {
+    background-color: rgb(10, 10, 10);
+    text-align: center;
+  }
+  
+  .form {
+    text-align: center;
+    line-height: 0.8cm;
+  }
