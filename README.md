@@ -11,7 +11,7 @@ This is a web application that takes a user's birthday and calculates the day of
 ## Installation
 
   - Open terminal{Ctrl+Alt+T}
-  - git clone https://...............................
+  - git clone https://farhan123-code/Akan-names.git
   - cd Akan-Names
   - code .
 
@@ -42,7 +42,7 @@ This is a web application that takes a user's birthday and calculates the day of
 ### Contributing to the Application
 1. git clone
    
-   ``` git clone https://.............................. ```
+   ``` git clone https://farhan123-code/Akan-names.git```
 
 2. Set up the project locally (Refer to installation process)
 
